@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+med/Lib/site-packages/
